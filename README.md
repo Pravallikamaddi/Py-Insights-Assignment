@@ -24,31 +24,20 @@ Jupyter Notebook
  ├── 📜 dataset.csv              # Sample dataset (Replace with actual dataset)
  ├── 📜 README.md                # Project Documentation
 
-## 📸 Sample Visualizations
+## 📸 For Visualizations
+Go through the Presentation (Browsing History Analysis Presentation🔍)
 
-🔹 Top 10 Most Visited Websites
+## 📖 Insights & Takeaways
 
-
-
-🔹 Browsing Activity by Hour
-
-
-
-🔹 Browsing Activity by Day of the Week
-
-
-
-📖 Insights & Takeaways
-
-🔹 Peak browsing hours occur between 6 PM and 10 PM → Suggests prime time for engagement.🔹 Weekends have the highest activity → Best time for targeted content strategies.🔹 Most visits come from link clicks → Internal linking & referrals play a key role in user flow.
+## 🔹 Peak browsing hours occur between 6 PM and 10 PM → Suggests prime time for engagement.🔹 Weekends have the highest activity → Best time for targeted content strategies.🔹 Most visits come from link clicks → Internal linking & referrals play a key role in user flow.
 
 ## 🚀 How to Run This Project
 
-🔹 Jupyter Notebook (Python Analysis)
+🔹 Jupyter Notebook (Python.ipynb)
 
 Clone the repository:
 
-git clone https://github.com/your-username/Browsing-History-Analysis.git
+git clone (https://github.com/Pravallikamaddi/Py-Insights-Assignment)
 
 Open the Jupyter Notebook:
 
@@ -56,20 +45,21 @@ jupyter notebook
 
 Run all cells to generate visualizations.
 
-🔹 Power BI Dashboard
+## 🔹 Power BI Dashboard
 
 Open Power BI Desktop.
 
-Load the dataset (dataset.csv).
+Load the dataset (py_demo_client_extension_30_20250221075805.csv).
 
-Import the Power BI file (browsing_analysis.pbit).
+Import the Power BI file (Py-Insights.pbix).
 
 Explore the interactive visuals!
 
-🌟 Connect with Me
+## 🌟 Connect with Me
 
-🔗 LinkedIn📧 Email: pravallikamaddi244@gmail.com
+🔗 https://www.linkedin.com/in/pravallikareddy-maddi
+📧 Email: pravallikamaddi244@gmail.com
 
-📌 If you find this project useful, feel free to ⭐ star this repository!
+##📌 If you find this project useful, feel free to ⭐ star this repository!
 
-🚀 Thank you for checking out this project!
+## 🚀 Thank you for checking out this project!
